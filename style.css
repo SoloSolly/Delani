@@ -1,6 +1,6 @@
 
 body{
-    border:50px solid white;
+    /* border:50px solid white; */
     
 }  
 
@@ -33,7 +33,7 @@ body{
     text-align: center;
     padding-top:50px ;
     padding-bottom: 50px;
-    margin:5px ;
+    /* margin:5px ; */
 }
 
 .services{
@@ -41,8 +41,8 @@ body{
     text-align: center;
     padding-top:  50px ;
     padding-bottom: 60px;
-    margin:5px ;
-    color: white;
+     margin:5px ;
+     color: white; 
 }
 
 .heading{
@@ -50,3 +50,13 @@ body{
     text-size-adjust: 30px;
 }
 
+.container{
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.heading{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
