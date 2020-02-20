@@ -1,8 +1,4 @@
-
-body{
-    /* border:50px solid white; */
-    
-}  
+ 
 
 
 .home{
@@ -19,6 +15,10 @@ body{
 .homeheading{
     padding:5px ;
     margin:5px ;
+}
+
+#homep{
+    font-size:xx-small;
 }
  
 
