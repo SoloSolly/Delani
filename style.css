@@ -66,8 +66,8 @@
 }
 
 .heading{
-    padding-top: 30px;
-    padding-bottom: 40px;
+    padding-top: 80px;
+    padding-bottom: 10px;
 }
 
 
@@ -108,9 +108,31 @@
     padding-bottom: 50px;
 }
 
-#submit{
-    padding-bottom: 100px;
+.top{
+    margin-left: 200px;
+    margin-right: 200px;
 }
+
+.bottom{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 20px;
+}
+
+.bottom2{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+.form{
+    background-color: transparent;
+}
+
+
+
 
 
 
