@@ -1,4 +1,9 @@
- 
+ .body{
+     margin: 0px;
+     padding: 0px;
+     overflow-x: hidden;
+     
+ }
 
 
 .home{
@@ -9,6 +14,7 @@
     color: white;
     text-align: center;
     padding-top: 200px;
+    padding-bottom: 100px;
     
 }
 
@@ -24,12 +30,13 @@
 
 .mouseclick{
 
-    padding-top: 30px;
+    padding-top: 70px;
     padding-bottom: 30px;
+    animation: bounce 2s infinite;
 
 }
 
-.aboutus{
+#about{
     text-align: center;
     padding-top:50px ;
     padding-bottom: 50px;
@@ -43,6 +50,8 @@
     padding-bottom: 60px;
      margin:5px ;
      color: white; 
+     background-size: cover;
+     background-position: center center;
 }
 
 .heading{
@@ -61,6 +70,46 @@
     padding-bottom: 40px;
 }
 
-.portfolio{
-    text-align: center;
+
+
+.col-md-3{
+    border-style: 5px;
 }
+
+
+#indesign{
+    display: none;
+}
+
+#indevelopment{
+    display: none;
+}
+
+
+#indesign{
+    display: none;
+}
+
+#inproduct{
+    display: none;
+}
+
+
+
+
+
+
+
+/* .portfolio{
+    text-align: center; */
+   
+/* } */
+
+/* .container1{
+    background-image: url(./images/c_image.jpg);
+    margin: opx; 
+    text-align: center;
+    color: white;
+    background-size: cover;
+    background-position: center center;
+} */
