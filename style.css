@@ -144,19 +144,30 @@
     background-color: transparent;
     padding-right: 50px;
     padding-left: 50px;
+    margin-top: 20px;
 }
 #Email{
     background-color: transparent;
     padding-right: 50px;
     padding-left: 50px;
+    margin-top: 20px;
 }
 
 .bottom{
     margin-left: 5px;
     margin-right: 5px;
+    color: coral;
 }
 
+.formcontainer{
+    color: white;
+}
 
+.footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 
 
